@@ -1,0 +1,9 @@
+cd to entry
+ls to list commands
+git config --global user.name ""
+git config --global user.email
+git clone link
+git add 
+git status
+git commit -m ""
+git push -u origin master
