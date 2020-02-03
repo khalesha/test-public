@@ -7,3 +7,4 @@ git add
 git status
 git commit -m ""
 git push -u origin master
+git pull -u origin master
